@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Raffaello Sanzio da Urbino",
+  "mongoUri": "mongodb+srv://sergey:Leonardo_da_Vinci@cluster0-7v6u7.azure.mongodb.net/test?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
